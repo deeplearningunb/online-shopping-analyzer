@@ -1,7 +1,7 @@
 # online-shopping-analyzer
 Projeto que utiliza redes neurais para prever compras online.
 
-<iframe src="https://giphy.com/embed/fAhOtxIzrTxyE" width="480" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shopping-fAhOtxIzrTxyE"></a></p>
+<iframe src="https://giphy.com/embed/fAhOtxIzrTxyE" width="480" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shopping-fAhOtxIzrTxyE">via GIPHY</a></p>
 
 ## Integrantes
 
